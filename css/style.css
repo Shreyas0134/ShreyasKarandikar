@@ -782,6 +782,26 @@ video {
   cursor: pointer;
 }
 
+.cursor-cell {
+  cursor: cell;
+}
+
+.cursor-zoom-out {
+  cursor: zoom-out;
+}
+
+.cursor-not-allowed {
+  cursor: not-allowed;
+}
+
+.cursor-grabbing {
+  cursor: grabbing;
+}
+
+.cursor-help {
+  cursor: help;
+}
+
 .flex-row {
   flex-direction: row;
 }
